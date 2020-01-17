@@ -6,12 +6,12 @@
 	"url":"https://github.com/electerm/electerm/releases/download/v1.0.19/electerm-1.0.19-win-x64.tar.gz",
 	"hash":"988A35CB59DEEC951ADD5F851531BA1607EEF5F28EA783FFC03B07315B949B99",
 	"bin":"electerm.exe",
-	"extract_dir":"electerm-1.0.19-win",
+	"extract_dir":"electerm-1.0.19-win-x64",
 	"checkver":{
 		"github":"https://github.com/electerm/electerm"
 	},
 	"autoupdate":{
 		"url":"https://github.com/electerm/electerm/releases/download/$version/electerm-$version-win-x64.tar.gz",
-		"extract_dir" : "electerm-$version-win"
+		"extract_dir" : "electerm-$version-win-x64"
 	}
 }
