@@ -1,0 +1,15 @@
+{
+	"homepage":"https://termius.com/",
+	"description":"Termius is a multi-platform SSH client with syncing between mobile and desktop.",
+	"version":"5.3.2",
+	"license":"Commercial",
+	"url":"https://autoupdate.termius.com/win/Termius.exe",
+	"hash":"2326942B2DA8AF013864F42BB4E2B90F33F2D893A2D82EB5197B990CAB0FF3EE",
+	"bin":"Termius.exe",
+	"shortcuts":[
+		[
+			"Termius.exe",
+			"Termius"
+		]
+	]
+}
