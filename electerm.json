@@ -8,8 +8,8 @@
 	"bin":"electerm.exe",
 	"shortcuts":[
 		[
-			"Electerm",
-			"electerm.exe"
+			"electerm.exe",
+			"Electerm"
 		]
 	],
 	"extract_dir":"electerm-1.0.21-win-x64",
