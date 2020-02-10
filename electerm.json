@@ -14,8 +14,7 @@
 	],
 	"extract_dir":"electerm-1.0.24-win-x64",
 	"checkver":{
-		"github":"https://github.com/electerm/electerm/releases/latest",
-		"re": "v(?<version>[\d.]+)\/(?<short>[\d.]+))"
+		"github":"https://github.com/electerm/electerm/releases/latest"
 	},
 	"autoupdate":{
 		"url":"https://github.com/electerm/electerm/releases/download/$version/electerm-$version-win-x64.tar.gz",
