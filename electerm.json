@@ -4,7 +4,7 @@
 	"version":"1.0.28",
 	"license":"MIT",
 	"url":"https://github.com/electerm/electerm/releases/download/v1.0.28/electerm-1.0.28-win-x64.tar.gz",
-	"hash":"0E31E34E2A88B7FCF3F71AAF44B2D654F4C31F11C512EEB8C92D70541E2E4A02",
+	"hash":"FFE1FCF6AFC87D8FC66EC6579A77ABC928294FFF9087E567CDE38D17A09E6A87",
 	"bin":"electerm.exe",
 	"shortcuts":[
 		[
