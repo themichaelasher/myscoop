@@ -15,12 +15,5 @@
 	"extract_dir":"electerm-1.0.28-win-x64",
 	"checkver":{
 		"github":"https://github.com/electerm/electerm/"
-	},
-	"autoupdate":{
-		"url":"https://github.com/electerm/electerm/releases/download/$version/electerm-$version-win-x64.tar.gz",
-		"extract_dir" : "electerm-$version-win-x64"
-	},
-	"hash" : {
-		"mode":"download"
 	}
 }
