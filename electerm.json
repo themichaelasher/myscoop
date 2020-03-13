@@ -4,7 +4,7 @@
 	"version":"1.2.2",
 	"license":"MIT",
 	"url":"https://github.com/electerm/electerm/releases/download/v1.2.2/electerm-1.2.2-win-x64.tar.gz",
-	"hash":"E1D55D5054D93F313905DEF3CC7447E82EE8EDC3",
+	"hash":"705cf50e01ff6370f150d226ba991acb33f950d185ba44e7341b31b6c53b87ce",
 	"bin":"electerm.exe",
 	"shortcuts":[
 		[
