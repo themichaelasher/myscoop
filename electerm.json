@@ -4,7 +4,7 @@
 	"version":"1.3.36",
 	"license":"MIT",
 	"url":"https://github.com/electerm/electerm/releases/download/v1.3.36/electerm-1.3.36-win-x64.tar.gz",
-	"hash":"9CF5472C6A1CE8CEA0132E78465D157C87153445FF7190CE348567949F15A901",
+	"hash":"545a2e3d8845d011844d743b5a05cc57176b8c9791dffb0841bfdac000da8430",
 	"bin":"electerm.exe",
 	"shortcuts":[
 		[
