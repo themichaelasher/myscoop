@@ -4,13 +4,13 @@
 	"version":"1.3.54",
 	"license":"MIT",
 	"url":"https://github.com/electerm/electerm/releases/download/v1.3.54/electerm-1.3.54-win-x64.tar.gz",
-	"hash":"95B34EC9C5A5BBED1E4DBAB455FD44FAD9AAE1E590649F29A1D3A6930FD7F150",
+	"hash":"5659451526FEE2240A51D0B2D7457F3CBBC706A831216349943C5A869E255C5E",
 	"bin":"electerm.exe",
 	"shortcuts":[
 		[
 			"electerm.exe",
 			"Electerm"
-		]
+		] 
 	],
 	"extract_dir":"electerm-1.3.54-win-x64",
 	"checkver":{
